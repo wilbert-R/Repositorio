@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Proyecto3</string>
+
+    <string-array name="convert_options">
+        <item>°C to °F</item>
+        <item>°C to °k</item>
+        <item>°F to °C</item>
+        <item>°F to °k</item>
+        <item>°K to °C</item>.
+        <item>°K to °F</item>
+    </string-array>
+</resources>
